@@ -1,2 +1,2 @@
 # hello-world
-Practice 1st project
+Hello and welcome to the wild world of the www
